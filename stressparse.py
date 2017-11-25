@@ -27,7 +27,7 @@ def syl_count(line):
 	return count
       
         
-filename = ''
+filename = 'Regin-smiður.txt'
 lines = []
 with open("parse.txt", "w") as f2:
     with open(filename) as f:
