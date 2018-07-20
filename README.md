@@ -1,4 +1,4 @@
-# stressparse
+# FoStressParse
 Simple script written in Python 3 for automatic stress annotation of Faroese ballads.
 
 * Takes .txt file as input, outputs parse.txt
